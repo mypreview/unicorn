@@ -1,3 +1,4 @@
+export { default as bell } from './library/bell';
 export { default as checkCircle } from './library/check-circle';
 export { default as check } from './library/check';
 export { default as fullscreen } from './library/fullscreen';
