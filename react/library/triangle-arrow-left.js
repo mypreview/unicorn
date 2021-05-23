@@ -5,7 +5,7 @@
  */
 import { SVG, Path } from '@wordpress/primitives';
 
-const triangleArrowLeft = (
+const triangleLeft = (
 	<SVG xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
 		<Path
 			fillRule="evenodd"
@@ -15,4 +15,4 @@ const triangleArrowLeft = (
 	</SVG>
 );
 
-export default triangleArrowLeft;
+export default triangleLeft;

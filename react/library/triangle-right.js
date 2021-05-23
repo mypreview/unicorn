@@ -5,14 +5,14 @@
  */
 import { SVG, Path } from '@wordpress/primitives';
 
-const triangleArrowDown = (
+const triangleRight = (
 	<SVG xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
 		<Path
 			fillRule="evenodd"
 			clipRule="evenodd"
-			d="M19.933 7.571l-7.147 8.492a1.03 1.03 0 01-1.576 0L4.062 7.57h15.871zm-5.57 9.819a3.09 3.09 0 01-4.73 0L2.486 8.898C1.358 7.558 2.31 5.51 4.062 5.51h15.871c1.752 0 2.705 2.048 1.577 3.388l-7.148 8.492z"
+			d="M7.571 4.064l8.492 7.148a1.03 1.03 0 010 1.576L7.57 19.936V4.064zm9.819 5.571a3.09 3.09 0 010 4.73l-8.492 7.147c-1.34 1.128-3.388.175-3.388-1.576V4.064c0-1.751 2.048-2.704 3.388-1.576l8.492 7.147z"
 		/>
 	</SVG>
 );
 
-export default triangleArrowDown;
+export default triangleRight;
