@@ -11,4 +11,8 @@ export { default as pushpin } from './library/pushpin';
 export { default as reply } from './library/reply';
 export { default as search } from './library/search';
 export { default as star } from './library/star';
+export { default as triangleDown } from './library/triangle-down';
+export { default as triangleLeft } from './library/triangle-left';
+export { default as triangleRight } from './library/triangle-right';
+export { default as triangleUp } from './library/triangle-up';
 export { default as unicorn } from './library/unicorn';
