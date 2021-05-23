@@ -1,0 +1,18 @@
+/**
+ * Primitives to be used cross-platform.
+ *
+ * @see https://github.com/WordPress/gutenberg/blob/trunk/packages/primitives/README.md
+ */
+import { SVG, Path } from '@wordpress/primitives';
+
+const triangleArrowDown = (
+	<SVG xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+		<Path
+			fillRule="evenodd"
+			clipRule="evenodd"
+			d="M19.933 7.571l-7.147 8.492a1.03 1.03 0 01-1.576 0L4.062 7.57h15.871zm-5.57 9.819a3.09 3.09 0 01-4.73 0L2.486 8.898C1.358 7.558 2.31 5.51 4.062 5.51h15.871c1.752 0 2.705 2.048 1.577 3.388l-7.148 8.492z"
+		/>
+	</SVG>
+);
+
+export default triangleArrowDown;

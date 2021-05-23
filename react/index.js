@@ -10,4 +10,8 @@ export { default as pencil } from './library/pencil';
 export { default as reply } from './library/reply';
 export { default as search } from './library/search';
 export { default as star } from './library/star';
+export { default as triangleArrowDown } from './library/triangle-arrow-down';
+export { default as triangleArrowLeft } from './library/triangle-arrow-left';
+export { default as triangleArrowRight } from './library/triangle-arrow-right';
+export { default as triangleArrowUp } from './library/triangle-arrow-up';
 export { default as unicorn } from './library/unicorn';
