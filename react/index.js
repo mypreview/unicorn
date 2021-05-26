@@ -1,3 +1,7 @@
+export { default as arrowDown } from './library/arrow-down';
+export { default as arrowLeft } from './library/arrow-left';
+export { default as arrowRight } from './library/arrow-right';
+export { default as arrowUp } from './library/arrow-up';
 export { default as bell } from './library/bell';
 export { default as checkCircle } from './library/check-circle';
 export { default as check } from './library/check';
