@@ -1,4 +1,5 @@
 export { default as bell } from './library/bell';
+export { default as calendar } from './library/calendar';
 export { default as checkCircle } from './library/check-circle';
 export { default as check } from './library/check';
 export { default as comment } from './library/comment';
