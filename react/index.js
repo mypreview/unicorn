@@ -6,6 +6,7 @@ export { default as fullscreen } from './library/fullscreen';
 export { default as fullscreenExit } from './library/fullscreen-exit';
 export { default as helicopter } from './library/helicopter';
 export { default as link } from './library/link';
+export { default as menu } from './library/menu';
 export { default as pencil } from './library/pencil';
 export { default as pushpin } from './library/pushpin';
 export { default as reply } from './library/reply';
