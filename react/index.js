@@ -16,3 +16,4 @@ export { default as triangleLeft } from './library/triangle-left';
 export { default as triangleRight } from './library/triangle-right';
 export { default as triangleUp } from './library/triangle-up';
 export { default as unicorn } from './library/unicorn';
+export { default as xCircle } from './library/x-circle';
