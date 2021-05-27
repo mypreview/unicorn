@@ -1,6 +1,10 @@
 export { default as bell } from './library/bell';
 export { default as checkCircle } from './library/check-circle';
 export { default as check } from './library/check';
+export { default as chevronDown } from './library/chevron-down';
+export { default as chevronLeft } from './library/chevron-left';
+export { default as chevronRight } from './library/chevron-right';
+export { default as chevronUp } from './library/chevron-up';
 export { default as comment } from './library/comment';
 export { default as fullscreen } from './library/fullscreen';
 export { default as fullscreenExit } from './library/fullscreen-exit';
