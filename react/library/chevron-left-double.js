@@ -5,7 +5,7 @@
  */
 import { SVG, Path } from '@wordpress/primitives';
 
-const doubleChevronLeft = (
+const chevronLeftDouble = (
   <SVG xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <Path
       fillRule="evenodd"
@@ -15,4 +15,4 @@ const doubleChevronLeft = (
   </SVG>
 );
 
-export default doubleChevronLeft;
+export default chevronLeftDouble;
