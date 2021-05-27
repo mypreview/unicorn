@@ -3,6 +3,7 @@ export { default as arrowLeft } from './library/arrow-left';
 export { default as arrowRight } from './library/arrow-right';
 export { default as arrowUp } from './library/arrow-up';
 export { default as bell } from './library/bell';
+export { default as calendar } from './library/calendar';
 export { default as checkCircle } from './library/check-circle';
 export { default as check } from './library/check';
 export { default as chevronDown } from './library/chevron-down';
